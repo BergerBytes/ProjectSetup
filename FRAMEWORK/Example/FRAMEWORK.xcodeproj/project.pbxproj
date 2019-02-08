@@ -17,8 +17,6 @@
 		607FACE51AFB9204008FA782 /* FRAMEWORK_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FRAMEWORK_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6912DBE5220DEC46003F8801 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		6912DBE6220DEC46003F8801 /* .gitkeep */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		6C9F8417D45EF3007BC814ED /* FRAMEWORK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FRAMEWORK.podspec; path = ../FRAMEWORK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A8F6C128A91E606CE97B4875 /* Pods-FRAMEWORK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FRAMEWORK_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FRAMEWORK_Tests/Pods-FRAMEWORK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AF3B01305E8B81A8D011EE17 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -50,7 +48,6 @@
 			isa = PBXGroup;
 			children = (
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
-				6912DBE4220DEC46003F8801 /* Classes */,
 				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
 				37286E5440167ABF1CA86043 /* Pods */,
@@ -91,16 +88,6 @@
 				AF3B01305E8B81A8D011EE17 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
-			sourceTree = "<group>";
-		};
-		6912DBE4220DEC46003F8801 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				6912DBE5220DEC46003F8801 /* Model.swift */,
-				6912DBE6220DEC46003F8801 /* .gitkeep */,
-			);
-			name = Classes;
-			path = ../FRAMEWORK/Classes;
 			sourceTree = "<group>";
 		};
 		F175FFF610D91B8BB62BEC1D /* Frameworks */ = {
