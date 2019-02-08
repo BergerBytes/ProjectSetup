@@ -1,0 +1,28 @@
+{
+  "name": "FRAMEWORK",
+  "version": "0.1.0",
+  "summary": "A short description of FRAMEWORK.",
+  "swift_version": "4.2",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bergerbytes/FRAMEWORK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BergerBytes": "contack@bergerbytes.io"
+  },
+  "source": {
+    "git": "https://github.com/Michael Berger/FRAMEWORK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "FRAMEWORK/Classes/**/*",
+  "dependencies": {
+    "ObjectBox": [
+
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+PODS:
+  - FRAMEWORK (0.1.0):
+    - ObjectBox
+  - ObjectBox (0.6.0)
+
+DEPENDENCIES:
+  - FRAMEWORK (from `../FRAMEWORK`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ObjectBox
+
+EXTERNAL SOURCES:
+  FRAMEWORK:
+    :git: "../FRAMEWORK"
+
+CHECKOUT OPTIONS:
+  FRAMEWORK:
+    :commit: ce6d9618ca9e73addfb7dff2c21a4aa82b128e9f
+    :git: "../FRAMEWORK"
+
+SPEC CHECKSUMS:
+  FRAMEWORK: 9faff0c0d78a1def480aa4adf7533f5ad4f79f68
+  ObjectBox: dbd8622c8315e0801faac488977e2f7c7d10532d
+
+PODFILE CHECKSUM: 7ffdb8abd2b29f11b1bd0bf087a07be5e8b2bd2a
+
+COCOAPODS: 1.5.3
