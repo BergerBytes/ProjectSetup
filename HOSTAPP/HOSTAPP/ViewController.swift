@@ -7,14 +7,20 @@
 //
 
 import UIKit
+import FRAMEWORK
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let model = Model()
+        
+        // Save model to database
+        
+        // Load model to database
+        
     }
-
-
 }
 

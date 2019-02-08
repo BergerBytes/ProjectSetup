@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   FRAMEWORK:
-    :commit: ce6d9618ca9e73addfb7dff2c21a4aa82b128e9f
+    :commit: 7bbf2d3fbf121cb9f625665f7d18de8173efdbb2
     :git: "../FRAMEWORK"
 
 SPEC CHECKSUMS:
